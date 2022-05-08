@@ -23,4 +23,5 @@ csvstack weather_2014.csv weather_2015.csv > weather.csv
 rm weather_data.xlsx 
 
 6. langkah terakhir sampling data dengan -r 0.3 yang tadi sudah dibuat pada folder data 
+
 cat weather.csv | sample -r 0.3 > sample_weather.csv
