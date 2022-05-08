@@ -13,6 +13,7 @@ cd data
 3. convert di masing masing sheet yang ada di file weather_data.xlsx dan disimpan di file csv 
 
 -- in2csv weather_data.xlsx --sheet 'weather_2014' > weather_2014.csv
+
 -- in2csv weather_data.xlsx --sheet 'weather_2015' > weather_2015.csv
 
 4. gabung data yang sudah berbentuk csv tadi menjadi satu file bernama weather.csv
