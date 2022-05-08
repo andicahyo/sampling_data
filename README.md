@@ -4,8 +4,8 @@ digunakan untuk sample data dari data github weather_data.xlsx
 # langkah langkah yang dilakukan meliputi: 
 
 1. Mendowload data dan disimpan di terminal lokal dulu
-wget -P ./data https://github.com/labusiam/dataset/raw/main/weather_data.xlsx
 
+    --> wget -P ./data https://github.com/labusiam/dataset/raw/main/weather_data.xlsx
 
 2. Masuk ke folder data dimana tempat file berada
 
