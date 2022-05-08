@@ -23,4 +23,4 @@ rm weather_data.xlsx
 
 #sampling file weather.csv dengan rate 0.3 
 
-cat weather.csv | sample -r 0.3 > sample_weather.csv | csvlook
+cat weather.csv | sample -r 0.3 > sample_weather.csv
